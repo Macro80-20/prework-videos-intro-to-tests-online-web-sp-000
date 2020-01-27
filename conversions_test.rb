@@ -7,6 +7,4 @@ if answer == 0.0
 else
   puts "Test failed: got #{answer} instead"
 
-end     
-  
-
+end
