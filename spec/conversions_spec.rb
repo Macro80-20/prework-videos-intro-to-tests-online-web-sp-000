@@ -1,4 +1,4 @@
-puts "Tests are running..."
+require '../conversions.rb'
 
 describe "conversions" do
   describe "#ounces_to_grams" do
